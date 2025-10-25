@@ -43,5 +43,6 @@ def test_point_vector_subtraction() -> None:
     assert isclose(point.x, -0.1)
     assert isclose(point.y, -0.2)
     
+
 test_point_vector_subtraction()
 
